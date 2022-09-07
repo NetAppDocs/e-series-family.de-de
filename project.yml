@@ -1,0 +1,64 @@
+---
+settings:
+  name: E-Series Family
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+  langs: de-de,us-en,ja-jp,zh-cn,zh-tw,ko-kr,fr-fr
+sidebar:
+  entries:
+  - title: Dokumentation der E-Series Produktfamilie
+    url: "/index.html"
+product-family:
+  search: clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod
+  sidebarlinks:
+  - title: Alle
+    tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity,
+      tag_solution
+    class: active
+  - title: Los geht's
+    tags: tag_get_started
+  - title: Datenspeicher
+    tags: tag_data_storage
+  - title: Storage-Management
+    tags: tag_storage_management, tag_SANtricity
+  - title: Verbessern Lassen
+    tags: tag_solution
+  tiles:
+  - title: Weitere Informationen zur E-Series
+    icon: "./media/groups_line-1.png"
+    url: intro-family.html
+    summary: Erfahren Sie mehr über die E-Series Storage-Systeme.
+    tags: all, tag_get_started
+  - title: E-Series Systeme
+    icon: "./media/system_line.png"
+    url: https://docs.netapp.com/us-en/e-series/index.html
+    summary: Die E-Series Storage-Systeme unterstützen Ihre Applikations-Workloads
+      mit schnellem Block-Storage und Zuverlässigkeit der Enterprise-Klasse.
+    tags: all, tag_data_storage
+  - title: SANtricity Software
+    icon: "./media/config_line.png"
+    url: https://docs.netapp.com/us-en/e-series-santricity/index.html
+    summary: Mit SANtricity Software provisionieren und managen Sie Ihre E-Series
+      Storage-Systeme über eine webbasierte Schnittstelle.
+    tags: all, tag_storage_management, tag_SANtricity
+  - title: Befehlszeilenschnittstelle
+    icon: "./media/cli_line.png"
+    url: https://docs.netapp.com/us-en/e-series-cli/index.html
+    summary: Verwenden Sie die CLI, um Ihre E-Series Storage-Systeme über eine Eingabeaufforderung
+      des Betriebssystems zu konfigurieren und zu überwachen.
+    tags: all, tag_storage_management, tag_SANtricity
+  - title: Web-Services-API
+    icon: "./media/api.png"
+    url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
+    summary: Erstellen und automatisieren Sie Workflows über Ihre neuen und älteren
+      E-Series Storage-Systeme hinweg mit der RESTful API.
+    tags: all, tag_storage_management, tag_SANtricity
+  - title: BeeGFS auf NetApp
+    icon: "./media/BeeGFS-ESeries.png"
+    url: https://docs.netapp.com/us-en/beegfs/index.html
+    summary: Mit BeeGFS auf NetApp erhalten Sie eine hochverfügbare KI- und HPC-Storage-Infrastruktur,
+      die das parallele Filesystem BeeGFS mit den NetApp EF600 Storage-Systemen kombiniert.
+    tags: all, tag_solution
