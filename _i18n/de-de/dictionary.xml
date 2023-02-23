@@ -80,7 +80,6 @@
   <block id="cc1ba14f8dc9bd7ba20e2aa654cde10b" category="inline-link">Hinweis zum SANtricity OS für die E-Series/EF-Series</block>
   <block id="2dae7f81af3097152530b0bc519d7eb1" category="paragraph"><block ref="2dae7f81af3097152530b0bc519d7eb1" category="inline-link-rx"></block></block>
   <block id="294d136d5efcf1648eafe92db6c5cf9e" category="sidebar">Dokumentation der E-Series Produktfamilie</block>
-  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Alle</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Los geht's</block>
   <block id="dc21b082b0947a93d387b8c7e8f89ee5" category="sidebar">Datenspeicher</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">Storage-Management</block>
@@ -95,6 +94,7 @@
   <block id="19a0a15a7c4d3a3bc51418cbc9a3b2ec" category="sidebar">Verwenden Sie die CLI, um Ihre E-Series Storage-Systeme über eine Eingabeaufforderung des Betriebssystems zu konfigurieren und zu überwachen.</block>
   <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">Web-Services-API</block>
   <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">Erstellen und automatisieren Sie Workflows über Ihre neuen und älteren E-Series Storage-Systeme hinweg mit der RESTful API.</block>
-  <block id="ae3764f1afaeea3c3503d944dce8f0b9" category="sidebar">BeeGFS auf NetApp</block>
-  <block id="cd03a6967293f50ada66e4749041088c" category="sidebar">Mit BeeGFS auf NetApp erhalten Sie eine hochverfügbare KI- und HPC-Storage-Infrastruktur, die das parallele Filesystem BeeGFS mit den NetApp EF600 Storage-Systemen kombiniert.</block>
+  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">Alle Dokumente</block>
+  <block id="28e8b3e83af233fe7085ba954fc6fd36" category="sidebar">BeeGFS auf NetApp mit E-Series Storage</block>
+  <block id="c6ed86424e776eb55d39d911ea6a9183" category="sidebar">Nutzen Sie BeeGFS auf NetApp, um eine hochverfügbare Infrastruktur zu erstellen und zu implementieren, die das parallele Filesystem BeeGFS mit den NetApp EF600 Storage-Systemen kombiniert.</block>
 </blocks>

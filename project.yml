@@ -1,6 +1,7 @@
 ---
 settings:
   name: E-Series Family
+  search: e-series,e-series-santricity,e-series-cli
   internal:
     pdf_enabled: false
   prod:
@@ -12,9 +13,8 @@ sidebar:
   - title: Dokumentation der E-Series Produktfamilie
     url: "/index.html"
 product-family:
-  search: clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod
   sidebarlinks:
-  - title: Alle
+  - title: Alle Dokumente
     tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity,
       tag_solution
     class: active
@@ -56,9 +56,10 @@ product-family:
     summary: Erstellen und automatisieren Sie Workflows über Ihre neuen und älteren
       E-Series Storage-Systeme hinweg mit der RESTful API.
     tags: all, tag_storage_management, tag_SANtricity
-  - title: BeeGFS auf NetApp
-    icon: "./media/BeeGFS-ESeries.png"
-    url: https://docs.netapp.com/us-en/beegfs/index.html
-    summary: Mit BeeGFS auf NetApp erhalten Sie eine hochverfügbare KI- und HPC-Storage-Infrastruktur,
-      die das parallele Filesystem BeeGFS mit den NetApp EF600 Storage-Systemen kombiniert.
+  - title: BeeGFS auf NetApp mit E-Series Storage
+    icon: "./media/api.png"
+    url: https://review.docs.netapp.com/us-en/beegfs_admin-jgallagher/index.html
+    summary: Nutzen Sie BeeGFS auf NetApp, um eine hochverfügbare Infrastruktur zu
+      erstellen und zu implementieren, die das parallele Filesystem BeeGFS mit den
+      NetApp EF600 Storage-Systemen kombiniert.
     tags: all, tag_solution
