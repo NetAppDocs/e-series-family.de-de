@@ -2,7 +2,6 @@
 <blocks>
   <block id="382db393e370bfa3a27169d580a3161c" category="summary">Die NetApp E-Series Produktfamilie bietet Storage- und Applikations-Datenmanagement-Services für Applikationen mit einer hohen Bandbreite, die einfaches Management und schnellen Block-Storage mit Zuverlässigkeit der Enterprise-Klasse benötigen.</block>
   <block id="5f93f381aa8df330451fa5b834f54def" category="doc">E-Series Dokumentation</block>
-  <block id="dc1480e3f0580dddb0eb15f3b1bd5d52" category="doc">Einführung in die E-Series Storage-Systeme</block>
   <block id="60adc38a80ac6ff80c4e7414ed3a9242" category="paragraph">Die NetApp E-Series Storage-Produktfamilie bietet flexibles und kostengünstiges Backup und Recovery in der Cloud und wurde für dedizierte Applikationen mit einer hohen Bandbreite entwickelt, die einfach zu managen und schnell Block-Storage mit einer Zuverlässigkeit der Enterprise-Klasse benötigen.</block>
   <block id="7198a11b2d2b782e219fa68720bb5d6c" category="section-title">E-Series Plattformen integriert</block>
   <block id="f13bfd89800bb7dd61e5dae9b1a91f8a" category="paragraph">Die Storage-Systeme der E-Series nutzen applikationsspezifische Datenmanagement-Tools, die mehrere Laufwerkstypen entweder in einem 2-HE- oder 4-HE-Formfaktor unterstützen können. Sie können das Storage-System von mehreren Schnittstellentypen und verschiedenen Host-Betriebssystemen mit einem SAN verbinden.</block>
@@ -90,7 +89,6 @@
   <block id="19a0a15a7c4d3a3bc51418cbc9a3b2ec" category="sidebar">Verwenden Sie die CLI, um Ihre E-Series Storage-Systeme über eine Eingabeaufforderung des Betriebssystems zu konfigurieren und zu überwachen.</block>
   <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">Web-Services-API</block>
   <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">Erstellen und automatisieren Sie Workflows über Ihre neuen und älteren E-Series Storage-Systeme hinweg mit der RESTful API.</block>
-  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">Alle Dokumente</block>
   <block id="28e8b3e83af233fe7085ba954fc6fd36" category="sidebar">BeeGFS auf NetApp mit E-Series Storage</block>
   <block id="c6ed86424e776eb55d39d911ea6a9183" category="sidebar">Nutzen Sie BeeGFS auf NetApp, um eine hochverfügbare Infrastruktur zu erstellen und zu implementieren, die das parallele Filesystem BeeGFS mit den NetApp EF600 Storage-Systemen kombiniert.</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
@@ -101,4 +99,6 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="a458525d37b04d3510554badd27d0cfa" category="doc">Erfahren Sie mehr über die E-Series Produktfamilie</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Alle</block>
 </blocks>
