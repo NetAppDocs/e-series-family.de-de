@@ -1,0 +1,60 @@
+---
+product-family:
+  title: E-Series Dokumentation
+  keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager,
+    unified manager
+  lead: Die NetApp E-Series Produktfamilie bietet Storage- und Applikations-Datenmanagement-Services
+    für Applikationen mit einer hohen Bandbreite, die einfaches Management und schnellen
+    Block-Storage mit Zuverlässigkeit der Enterprise-Klasse benötigen.
+  summary: Die NetApp E-Series Produktfamilie bietet Storage- und Applikations-Datenmanagement-Services
+    für Applikationen mit einer hohen Bandbreite, die einfaches Management und schnellen
+    Block-Storage mit Zuverlässigkeit der Enterprise-Klasse benötigen.
+  sidebarlinks:
+  - title: Alle
+    tags: tag-all
+    class: active
+  - title: Los geht's
+    tags: tag-get-started
+  - title: Datenspeicher
+    tags: tag-data-storage
+  - title: Storage-Management
+    tags: tag-storage-management
+  - title: Verbessern Lassen
+    tags: tag-solution
+  tiles:
+  - title: Weitere Informationen zur E-Series
+    icon: "./media/groups_line-1.png"
+    url: intro-family.html
+    summary: Erfahren Sie mehr über die E-Series Storage-Systeme.
+    tags: tag-all,tag-get-started,tag-data-storage,tag-storage-management,tag-solution
+  - title: E-Series Systeme
+    icon: "./media/system_line.png"
+    url: "../e-series/index.html"
+    summary: Die E-Series Storage-Systeme unterstützen Ihre Applikations-Workloads
+      mit schnellem Block-Storage und Zuverlässigkeit der Enterprise-Klasse.
+    tags: tag-all,tag-data-storage
+  - title: SANtricity Software
+    icon: "./media/config_line.png"
+    url: "../e-series-santricity/index.html"
+    summary: Mit SANtricity Software provisionieren und managen Sie Ihre E-Series
+      Storage-Systeme über eine webbasierte Schnittstelle.
+    tags: tag-all,tag-storage-management
+  - title: Befehlszeilenschnittstelle
+    icon: "./media/cli_line.png"
+    url: "../e-series-cli/index.html"
+    summary: Verwenden Sie die CLI, um Ihre E-Series Storage-Systeme über eine Eingabeaufforderung
+      des Betriebssystems zu konfigurieren und zu überwachen.
+    tags: tag-all,tag-storage-management
+  - title: Web-Services-API
+    icon: "./media/api.png"
+    url: "../e-series/web-services-proxy/index.html"
+    summary: Erstellen und automatisieren Sie Workflows über Ihre neuen und älteren
+      E-Series Storage-Systeme hinweg mit der RESTful API.
+    tags: tag-all,tag-storage-management
+  - title: BeeGFS auf NetApp mit E-Series Storage
+    icon: "./media/api.png"
+    url: "../beegfs/index.html"
+    summary: Nutzen Sie BeeGFS auf NetApp, um eine hochverfügbare Infrastruktur zu
+      erstellen und zu implementieren, die das parallele Filesystem BeeGFS mit den
+      NetApp EF600 Storage-Systemen kombiniert.
+    tags: tag-all,tag-solution
